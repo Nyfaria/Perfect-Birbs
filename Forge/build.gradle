@@ -85,6 +85,10 @@ dependencies {
         jarJar.ranged(it, "[0.2.0-rc.3,)")
     }
     annotationProcessor "org.spongepowered:mixin:${mixin_version}:processor"
+    implementation(jarJar(fg.deobf("com.nyfaria.perfectplushieapi:perfectplushieapi-forge-1.20.1:${plushie_api_version}"))){
+        jarJar.ranged(it, "[${plushie_api_version},)")
+        transitive=false
+    }
 }
 
 tasks.withType(JavaCompile) {
@@ -123,7 +127,19 @@ processResources {
         }
     }
 }
-
+reobf {
+    jarJar {}
+}
+afterEvaluate {
+    reobfJar {
+        enabled = false
+    }
+    jar.finalizedBy reobfJar
+    tasks.jarJar.finalizedBy reobfJarJar
+}
+tasks.jarJar {
+    archiveClassifier = ''
+}
 
 jar.finalizedBy('reobfJar')
 publishing {
@@ -144,7 +160,7 @@ publishing {
 reg.configureJarTask(tasks.jarJar)
 publishMods {
     if(publishForge) {
-        file = jar.archiveFile
+        file = tasks.jarJar.archiveFile
         changelog = project(":Common").file("changelog.md").text
         type = STABLE
         modLoaders.add("forge")
@@ -155,6 +171,9 @@ publishMods {
                 projectId = curseforge_project_id
                 accessToken = curseforge_token
                 minecraftVersions.add(minecraft_version)
+                requires {
+                    slug = "geckolib"
+                }
             }
         }
         if (modrinth_publishing_enabled.toBoolean()) {
@@ -162,6 +181,9 @@ publishMods {
                 accessToken = modrinth_token
                 projectId = modrinth_project_id
                 minecraftVersions.add(minecraft_version)
+                requires {
+                    slug = "geckolib"
+                }
             }
         }
     }

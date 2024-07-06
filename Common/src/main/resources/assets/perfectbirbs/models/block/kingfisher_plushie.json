@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Kingfisher",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"5": "perfectbirbs:block/kingfisher_plushie",

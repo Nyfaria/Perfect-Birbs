@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "perfectplushies:block/flamingo_plushie",
-		"particle": "perfectplushies:block/flamingo_plushie"
+		"3": "perfectbirbs:block/flamingo_plushie",
+		"particle": "perfectbirbs:block/flamingo_plushie"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "EuropeanRobin",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"3": "perfectbirbs:block/european_robin_plushie",

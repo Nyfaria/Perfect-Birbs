@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Shoebill",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
 		"4": "perfectbirbs:block/shoebill_plushie",

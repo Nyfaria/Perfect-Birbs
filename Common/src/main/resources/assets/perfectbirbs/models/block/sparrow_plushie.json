@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Sparrow",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "perfectbirbs:block/sparrow_plushie",

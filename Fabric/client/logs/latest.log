@@ -1,62 +1,62 @@
-[19:41:17] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
-[19:41:18] [main/INFO] (FabricLoader) Loading 49 mods:
+[11:22:33] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
+[11:22:33] [main/INFO] (FabricLoader) Loading 49 mods:
 	- com_github_llamalad7_mixinextras 0.2.0-rc.3
 	- fabric-api 0.83.1+1.20.1
-	- fabric-api-base 0.4.29+b04edc7a82
-	- fabric-api-lookup-api-v1 1.6.34+4d8536c982
-	- fabric-biome-api-v1 13.0.10+b3afc78b82
-	- fabric-block-api-v1 1.0.9+e022e5d182
-	- fabric-blockrenderlayer-v1 1.1.39+b3afc78b82
-	- fabric-client-tags-api-v1 1.0.20+b3afc78b82
-	- fabric-command-api-v2 2.2.11+b3afc78b82
-	- fabric-content-registries-v0 4.0.7+b3afc78b82
-	- fabric-convention-tags-v1 1.5.3+b3afc78b82
-	- fabric-crash-report-info-v1 0.2.18+aeb40ebe82
+	- fabric-api-base 0.4.29+b04edc7a77
+	- fabric-api-lookup-api-v1 1.6.34+4d8536c977
+	- fabric-biome-api-v1 13.0.10+b3afc78b77
+	- fabric-block-api-v1 1.0.9+e022e5d177
+	- fabric-blockrenderlayer-v1 1.1.39+b3afc78b77
+	- fabric-client-tags-api-v1 1.0.20+b3afc78b77
+	- fabric-command-api-v2 2.2.11+b3afc78b77
+	- fabric-content-registries-v0 4.0.7+b3afc78b77
+	- fabric-convention-tags-v1 1.5.3+b3afc78b77
+	- fabric-crash-report-info-v1 0.2.18+aeb40ebe77
 	- fabric-data-generation-api-v1 12.1.11+b3afc78b77
-	- fabric-dimensions-v1 2.1.51+b3afc78b82
-	- fabric-entity-events-v1 1.5.21+b3afc78b82
-	- fabric-events-interaction-v0 0.6.0+b3afc78b82
-	- fabric-game-rule-api-v1 1.0.38+b04edc7a82
-	- fabric-gametest-api-v1 1.2.10+b3afc78b82
-	- fabric-item-api-v1 2.1.26+b3afc78b82
-	- fabric-item-group-api-v1 4.0.7+b3afc78b82
-	- fabric-key-binding-api-v1 1.0.36+fb8d95da82
-	- fabric-lifecycle-events-v1 2.2.20+b3afc78b82
-	- fabric-loot-api-v2 1.1.37+b3afc78b82
-	- fabric-message-api-v1 5.1.6+b3afc78b82
-	- fabric-mining-level-api-v1 2.1.47+b3afc78b82
-	- fabric-models-v0 0.3.35+b3afc78b82
-	- fabric-networking-api-v1 1.3.8+b3afc78b82
-	- fabric-object-builder-api-v1 11.0.6+b3afc78b82
-	- fabric-particles-v1 1.0.28+b3afc78b82
-	- fabric-recipe-api-v1 1.0.18+b3afc78b82
-	- fabric-registry-sync-v0 2.2.6+b3afc78b82
-	- fabric-renderer-api-v1 3.0.1+b3afc78b82
-	- fabric-renderer-indigo 1.3.1+b3afc78b82
-	- fabric-rendering-data-attachment-v1 0.3.33+b3afc78b82
-	- fabric-rendering-fluids-v1 3.0.26+b3afc78b82
-	- fabric-rendering-v1 3.0.6+b3afc78b82
+	- fabric-dimensions-v1 2.1.51+b3afc78b77
+	- fabric-entity-events-v1 1.5.21+b3afc78b77
+	- fabric-events-interaction-v0 0.6.0+b3afc78b77
+	- fabric-game-rule-api-v1 1.0.38+b04edc7a77
+	- fabric-gametest-api-v1 1.2.10+b3afc78b77
+	- fabric-item-api-v1 2.1.26+b3afc78b77
+	- fabric-item-group-api-v1 4.0.7+b3afc78b77
+	- fabric-key-binding-api-v1 1.0.36+fb8d95da77
+	- fabric-lifecycle-events-v1 2.2.20+b3afc78b77
+	- fabric-loot-api-v2 1.1.37+b3afc78b77
+	- fabric-message-api-v1 5.1.6+b3afc78b77
+	- fabric-mining-level-api-v1 2.1.47+b3afc78b77
+	- fabric-models-v0 0.3.35+b3afc78b77
+	- fabric-networking-api-v1 1.3.8+b3afc78b77
+	- fabric-object-builder-api-v1 11.0.6+b3afc78b77
+	- fabric-particles-v1 1.0.28+b3afc78b77
+	- fabric-recipe-api-v1 1.0.18+b3afc78b77
+	- fabric-registry-sync-v0 2.2.6+b3afc78b77
+	- fabric-renderer-api-v1 3.0.1+b3afc78b77
+	- fabric-renderer-indigo 1.3.1+b3afc78b77
+	- fabric-rendering-data-attachment-v1 0.3.33+b3afc78b77
+	- fabric-rendering-fluids-v1 3.0.26+b3afc78b77
+	- fabric-rendering-v1 3.0.6+b3afc78b77
 	- fabric-resource-conditions-api-v1 2.3.5+ea08f9d877
-	- fabric-resource-loader-v0 0.11.7+f7923f6d82
-	- fabric-screen-api-v1 2.0.6+b3afc78b82
-	- fabric-screen-handler-api-v1 1.3.27+b3afc78b82
-	- fabric-sound-api-v1 1.0.12+b3afc78b82
-	- fabric-transfer-api-v1 3.2.2+b3afc78b82
-	- fabric-transitive-access-wideners-v1 4.2.0+b3afc78b82
+	- fabric-resource-loader-v0 0.11.7+f7923f6d77
+	- fabric-screen-api-v1 2.0.6+b3afc78b77
+	- fabric-screen-handler-api-v1 1.3.27+b3afc78b77
+	- fabric-sound-api-v1 1.0.12+b3afc78b77
+	- fabric-transfer-api-v1 3.2.2+b3afc78b77
+	- fabric-transitive-access-wideners-v1 4.2.0+b3afc78b77
 	- fabricloader 0.14.21
-	- forgeconfigapiport 8.0.0
 	- java 17
 	- minecraft 1.20.1
-	- nyfsmultiloader 1.0.0
+	- perfectbirbs 1.0.0
+	- perfectplushieapi 0.1.1
 	- regutils-common 1.20.1-1.0.0
-[19:41:18] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/kinar/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
-[19:41:18] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[19:41:18] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
-[19:41:18] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[19:41:20] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.3).
-[19:41:24] [Datafixer Bootstrap/INFO] (Minecraft) 188 Datafixer optimizations took 150 milliseconds
-[19:41:26] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:41:27] [Render thread/ERROR] (Minecraft) Failed to verify authentication
+[11:22:33] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/kinar/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[11:22:34] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[11:22:34] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_16
+[11:22:34] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[11:22:35] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0-rc.3).
+[11:22:40] [Datafixer Bootstrap/INFO] (Minecraft) 188 Datafixer optimizations took 126 milliseconds
+[11:22:42] [Render thread/INFO] (Minecraft) Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:22:42] [Render thread/ERROR] (Minecraft) Failed to verify authentication
 com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
 	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:56) ~[authlib-4.0.43.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:156) ~[authlib-4.0.43.jar:?]
@@ -74,30 +74,462 @@ Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 4
 	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:48) ~[authlib-4.0.43.jar:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:129) ~[authlib-4.0.43.jar:?]
 	... 9 more
-[19:41:27] [Render thread/INFO] (Minecraft) Setting user: Player33
-[19:41:27] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[19:41:28] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.1 SNAPSHOT
-[19:41:29] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabric-models-v0, fabric-api-lookup-api-v1, fabric-rendering-data-attachment-v1, fabric-crash-report-info-v1, fabricloader, fabric-game-rule-api-v1, fabric-block-api-v1, fabric-recipe-api-v1, fabric-transfer-api-v1, fabric-sound-api-v1, fabric-data-generation-api-v1, fabric-rendering-v1, fabric-particles-v1, fabric-blockrenderlayer-v1, fabric-dimensions-v1, forgeconfigapiport, fabric-api, fabric-renderer-indigo, fabric-mining-level-api-v1, fabric-content-registries-v0, fabric-loot-api-v2, fabric-rendering-fluids-v1, fabric-client-tags-api-v1, fabric-resource-conditions-api-v1, fabric-biome-api-v1, fabric-api-base, fabric-entity-events-v1, fabric-lifecycle-events-v1, fabric-gametest-api-v1, fabric-events-interaction-v0, fabric-renderer-api-v1, fabric-key-binding-api-v1, fabric-object-builder-api-v1, fabric-screen-handler-api-v1, fabric-convention-tags-v1, fabric-resource-loader-v0, fabric-command-api-v2, fabric-item-api-v1, fabric-screen-api-v1, fabric-item-group-api-v1, fabric-transitive-access-wideners-v1, fabric-registry-sync-v0, fabric-networking-api-v1, fabric-message-api-v1)
-[19:41:29] [Worker-Main-4/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
-[19:41:31] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
-[19:41:31] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[19:41:31] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Razer Leviathan V2 X)
-[19:41:31] [Render thread/INFO] (Minecraft) Sound engine started
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[19:41:31] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[19:41:31] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[19:41:44] [Render thread/INFO] (Multi Loader Template) This line is printed by an example mod mixin from Fabric!
-[19:41:44] [Render thread/INFO] (Multi Loader Template) MC Version: Fabric
-[19:41:44] [Render thread/INFO] (Multi Loader Template) Classloader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@222114ba
-[19:41:45] [Realms Notification Availability checker #1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
-[19:41:46] [Render thread/INFO] (Minecraft) Stopping!
+[11:22:42] [Render thread/INFO] (Minecraft) Setting user: Player137
+[11:22:43] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[11:22:43] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.1 SNAPSHOT
+[11:22:44] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric (fabric-registry-sync-v0, fabric-api, fabric-rendering-fluids-v1, fabric-gametest-api-v1, fabric-crash-report-info-v1, fabric-events-interaction-v0, fabric-transitive-access-wideners-v1, perfectbirbs, fabric-sound-api-v1, fabric-message-api-v1, fabric-game-rule-api-v1, fabric-command-api-v2, fabric-screen-handler-api-v1, fabric-screen-api-v1, fabric-renderer-indigo, fabric-particles-v1, fabric-key-binding-api-v1, fabric-rendering-v1, fabric-renderer-api-v1, fabric-entity-events-v1, fabric-content-registries-v0, fabric-api-base, fabric-models-v0, fabric-transfer-api-v1, fabric-convention-tags-v1, fabric-dimensions-v1, fabric-biome-api-v1, fabric-item-api-v1, perfectplushieapi, fabric-block-api-v1, fabric-networking-api-v1, fabricloader, fabric-data-generation-api-v1, fabric-object-builder-api-v1, fabric-client-tags-api-v1, fabric-resource-loader-v0, fabric-rendering-data-attachment-v1, fabric-mining-level-api-v1, fabric-loot-api-v2, fabric-blockrenderlayer-v1, fabric-resource-conditions-api-v1, fabric-lifecycle-events-v1, fabric-api-lookup-api-v1, fabric-item-group-api-v1, fabric-recipe-api-v1)
+[11:22:45] [Worker-Main-15/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/bald_eagle_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:BaldEagle
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-15/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/bee_hummingbird_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:BeeHummingbird
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-12/INFO] (Minecraft) Found unifont_all_no_pua-15.0.06.hex, loading
+[11:22:45] [Worker-Main-15/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/blue_jay_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:RedCardinal
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-3/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/chickadee_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Chickadee
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Render thread/INFO] (Multi Loader Template) This line is printed by an example mod mixin from Fabric!
+[11:22:45] [Render thread/INFO] (Multi Loader Template) MC Version: Fabric
+[11:22:45] [Render thread/INFO] (Multi Loader Template) Classloader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@38c5cc4c
+[11:22:45] [Worker-Main-19/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/european_robin_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:EuropeanRobin
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-19/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/gouldian_finch_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:RainbowLorikeet
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-19/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/hornbill_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Hornbill
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-8/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/kingfisher_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Kingfisher
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-15/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/oriole_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Oriole
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-5/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/pigeon_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Pidgeon
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-17/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/rainbow_lorikeet_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:RainbowLorikeet
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-18/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/red_cardinal_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:RedCardinal
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-13/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/quetzal_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Quetzal
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-5/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/shoebill_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Shoebill
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-15/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/sparrow_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Sparrow
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Worker-Main-14/ERROR] (Minecraft) Failed to load model perfectbirbs:models/block/toucan_plushie.json
+net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of location: minecraft:Toucan
+	at net.minecraft.resources.ResourceLocation.assertValidPath(ResourceLocation.java:252) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:47) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:51) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.resources.ResourceLocation.<init>(ResourceLocation.java:56) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:324) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel$Deserializer.deserialize(BlockModel.java:300) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:531) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:581) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.renderer.block.model.BlockModel.fromStream(BlockModel.java:86) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at net.minecraft.client.resources.model.ModelManager.method_45898(ModelManager.java:105) ~[minecraft-project-@Fabric-merged-named.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[11:22:45] [Realms Notification Availability checker #1/INFO] (Minecraft) Could not authorize you against Realms server: Invalid session id
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/bald_eagle_plushie' referenced from: perfectbirbs:bald_eagle_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/bald_eagle_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/bee_hummingbird_plushie' referenced from: perfectbirbs:bee_hummingbird_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/bee_hummingbird_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/blue_jay_plushie' referenced from: perfectbirbs:blue_jay_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/blue_jay_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/chickadee_plushie' referenced from: perfectbirbs:chickadee_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/chickadee_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/european_robin_plushie' referenced from: perfectbirbs:european_robin_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/european_robin_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/gouldian_finch_plushie' referenced from: perfectbirbs:gouldian_finch_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/gouldian_finch_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/hornbill_plushie' referenced from: perfectbirbs:hornbill_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/hornbill_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/kingfisher_plushie' referenced from: perfectbirbs:kingfisher_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/kingfisher_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/oriole_plushie' referenced from: perfectbirbs:oriole_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/oriole_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/pigeon_plushie' referenced from: perfectbirbs:pigeon_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/pigeon_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/quetzal_plushie' referenced from: perfectbirbs:quetzal_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/quetzal_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/rainbow_lorikeet_plushie' referenced from: perfectbirbs:rainbow_lorikeet_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/rainbow_lorikeet_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/red_cardinal_plushie' referenced from: perfectbirbs:red_cardinal_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/red_cardinal_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/shoebill_plushie' referenced from: perfectbirbs:shoebill_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/shoebill_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/sparrow_plushie' referenced from: perfectbirbs:sparrow_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/sparrow_plushie.json
+[11:22:45] [Worker-Main-2/WARN] (Minecraft) Unable to load model: 'perfectbirbs:block/toucan_plushie' referenced from: perfectbirbs:toucan_plushie#facing=north: java.io.FileNotFoundException: perfectbirbs:models/block/toucan_plushie.json
+[11:22:46] [Worker-Main-2/WARN] (Minecraft) Missing textures in model perfectbirbs:flamingo_plushie#facing=north:
+    minecraft:textures/atlas/blocks.png:perfectplushies:block/flamingo_plushie
+[11:22:46] [Worker-Main-2/WARN] (Minecraft) Missing textures in model perfectbirbs:flamingo_plushie#facing=south:
+    minecraft:textures/atlas/blocks.png:perfectplushies:block/flamingo_plushie
+[11:22:46] [Worker-Main-2/WARN] (Minecraft) Missing textures in model perfectbirbs:flamingo_plushie#facing=east:
+    minecraft:textures/atlas/blocks.png:perfectplushies:block/flamingo_plushie
+[11:22:46] [Worker-Main-2/WARN] (Minecraft) Missing textures in model perfectbirbs:flamingo_plushie#inventory:
+    minecraft:textures/atlas/blocks.png:perfectplushies:block/flamingo_plushie
+[11:22:46] [Worker-Main-2/WARN] (Minecraft) Missing textures in model perfectbirbs:flamingo_plushie#facing=west:
+    minecraft:textures/atlas/blocks.png:perfectplushies:block/flamingo_plushie
+[11:22:46] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[11:22:46] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[11:22:46] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Razer Leviathan V2 X)
+[11:22:46] [Render thread/INFO] (Minecraft) Sound engine started
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[11:22:46] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[11:22:46] [Render thread/INFO] (Minecraft) Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[11:22:46] [Render thread/INFO] (Multi Loader Template) This line is printed by an example mod mixin from Fabric!
+[11:22:46] [Render thread/INFO] (Multi Loader Template) MC Version: Fabric
+[11:22:46] [Render thread/INFO] (Multi Loader Template) Classloader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@38c5cc4c
+[11:23:03] [Render thread/INFO] (Multi Loader Template) This line is printed by an example mod mixin from Fabric!
+[11:23:03] [Render thread/INFO] (Multi Loader Template) MC Version: Fabric
+[11:23:03] [Render thread/INFO] (Multi Loader Template) Classloader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@38c5cc4c
+[11:23:04] [Worker-Main-5/ERROR] (Minecraft) Couldn't load tag minecraft:wool as it is missing following references: #perfectplushieapi:treasure_plushies (from fabric), #perfectplushieapi:rare_treasure_plushies (from fabric)
+[11:23:04] [Worker-Main-6/ERROR] (Minecraft) Couldn't load tag minecraft:wool as it is missing following references: #perfectplushieapi:treasure_plushies (from fabric)
+[11:23:04] [Worker-Main-6/ERROR] (Minecraft) Couldn't load tag minecraft:occludes_vibration_signals as it is missing following references: #minecraft:wool (from vanilla)
+[11:23:04] [Worker-Main-5/ERROR] (Minecraft) Couldn't load tag minecraft:dampens_vibrations as it is missing following references: #minecraft:wool (from vanilla)
+[11:23:04] [Worker-Main-6/ERROR] (Minecraft) Couldn't load tag minecraft:dampens_vibrations as it is missing following references: #minecraft:wool (from vanilla)
+[11:23:05] [Render thread/INFO] (Minecraft) Loaded 7 recipes
+[11:23:05] [Render thread/INFO] (Minecraft) Loaded 1271 advancements
+[11:23:10] [Render thread/INFO] (BiomeModificationImpl) Applied 0 biome modifications to 0 of 64 new biomes in 1.708 ms
+[11:23:10] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.20.1
+[11:23:10] [Server thread/INFO] (Minecraft) Generating keypair
+[11:23:12] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[11:23:13] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[11:23:13] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[11:23:13] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[11:23:14] [Render thread/INFO] (Minecraft) Preparing spawn area: 1%
+[11:23:14] [Render thread/INFO] (Minecraft) Preparing spawn area: 3%
+[11:23:15] [Render thread/INFO] (Minecraft) Preparing spawn area: 5%
+[11:23:15] [Render thread/INFO] (Minecraft) Preparing spawn area: 9%
+[11:23:16] [Render thread/INFO] (Minecraft) Preparing spawn area: 13%
+[11:23:16] [Render thread/INFO] (Minecraft) Preparing spawn area: 15%
+[11:23:17] [Render thread/INFO] (Minecraft) Preparing spawn area: 21%
+[11:23:17] [Render thread/INFO] (Minecraft) Preparing spawn area: 25%
+[11:23:18] [Render thread/INFO] (Minecraft) Preparing spawn area: 27%
+[11:23:18] [Render thread/INFO] (Minecraft) Preparing spawn area: 32%
+[11:23:19] [Render thread/INFO] (Minecraft) Preparing spawn area: 35%
+[11:23:19] [Render thread/INFO] (Minecraft) Preparing spawn area: 42%
+[11:23:20] [Render thread/INFO] (Minecraft) Preparing spawn area: 47%
+[11:23:20] [Render thread/INFO] (Minecraft) Preparing spawn area: 54%
+[11:23:21] [Render thread/INFO] (Minecraft) Preparing spawn area: 59%
+[11:23:21] [Render thread/INFO] (Minecraft) Preparing spawn area: 66%
+[11:23:22] [Render thread/INFO] (Minecraft) Preparing spawn area: 71%
+[11:23:22] [Render thread/INFO] (Minecraft) Preparing spawn area: 73%
+[11:23:23] [Render thread/INFO] (Minecraft) Preparing spawn area: 81%
+[11:23:23] [Render thread/INFO] (Minecraft) Preparing spawn area: 85%
+[11:23:24] [Render thread/INFO] (Minecraft) Preparing spawn area: 93%
+[11:23:24] [Render thread/INFO] (Minecraft) Time elapsed: 11961 ms
+[11:23:24] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[11:23:24] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[11:23:25] [Server thread/INFO] (Minecraft) Player137[local:E:008eca56] logged in with entity id 184 at (-134.5, 70.0, -134.5)
+[11:23:25] [Server thread/INFO] (Minecraft) Player137 joined the game
+[11:23:26] [Render thread/INFO] (Minecraft) Loaded 2 advancements
+[11:23:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[11:23:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[11:23:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[11:23:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[11:26:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[11:26:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[11:26:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[11:26:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[11:26:26] [Server thread/INFO] (Minecraft) Player137 lost connection: Disconnected
+[11:26:26] [Server thread/INFO] (Minecraft) Player137 left the game
+[11:26:26] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[11:26:26] [Server thread/INFO] (Minecraft) Stopping server
+[11:26:26] [Server thread/INFO] (Minecraft) Saving players
+[11:26:26] [Server thread/INFO] (Minecraft) Saving worlds
+[11:26:27] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[11:26:28] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[11:26:28] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[11:26:28] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World): All chunks are saved
+[11:26:28] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:26:28] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:26:28] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[11:26:28] [Render thread/INFO] (Multi Loader Template) This line is printed by an example mod mixin from Fabric!
+[11:26:28] [Render thread/INFO] (Multi Loader Template) MC Version: Fabric
+[11:26:28] [Render thread/INFO] (Multi Loader Template) Classloader: net.fabricmc.loader.impl.launch.knot.KnotClassLoader@38c5cc4c

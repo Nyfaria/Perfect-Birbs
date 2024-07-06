@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Pidgeon",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
 		"7": "perfectbirbs:block/pigeon_plushie",

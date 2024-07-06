@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Toucan",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "perfectbirbs:block/toucan_plushie",

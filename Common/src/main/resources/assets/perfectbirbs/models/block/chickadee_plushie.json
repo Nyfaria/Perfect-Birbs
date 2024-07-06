@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Chickadee",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "perfectbirbs:block/chickadee_plushie",

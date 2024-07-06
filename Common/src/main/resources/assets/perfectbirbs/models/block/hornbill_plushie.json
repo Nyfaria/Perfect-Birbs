@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Hornbill",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "perfectbirbs:block/hornbill_plushie",

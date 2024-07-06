@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "BaldEagle",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "perfectbirbs:block/bald_eagle_plushie",

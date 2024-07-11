@@ -30,7 +30,12 @@ public class ModTagProvider {
         @Override
         protected void addTags(HolderLookup.Provider pProvider) {
             populateTag(PlushieTags.VILLAGE_PLUSHIES_ITEMS,
-                    BlockInit.plushieBlocks.toArray(new RegistryObject[0])
+                    BlockInit.plushieBlocks.stream().filter(
+                            block -> block != BlockInit.DODO_PLUSHIE
+                    ).toList().toArray(new RegistryObject[0])
+            );
+            populateTag(PlushieTags.ARCHAEOLOGY_PLUSHIES_ITEMS,
+                    BlockInit.DODO_PLUSHIE::get
             );
         }
 

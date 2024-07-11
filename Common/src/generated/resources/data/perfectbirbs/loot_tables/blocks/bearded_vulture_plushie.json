@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "perfectbirbs:bearded_vulture"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "perfectbirbs:blocks/bearded_vulture_plushie"
+}

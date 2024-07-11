@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "perfectbirbs:block/pheasant_plushie",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "perfectbirbs:block/pheasant_plushie"
+    },
+    "facing=south": {
+      "model": "perfectbirbs:block/pheasant_plushie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "perfectbirbs:block/pheasant_plushie",
+      "y": 270
+    }
+  }
+}

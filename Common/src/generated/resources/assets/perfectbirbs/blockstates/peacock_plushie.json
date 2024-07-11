@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "perfectbirbs:block/peacock_plushie",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "perfectbirbs:block/peacock_plushie"
+    },
+    "facing=south": {
+      "model": "perfectbirbs:block/peacock_plushie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "perfectbirbs:block/peacock_plushie",
+      "y": 270
+    }
+  }
+}

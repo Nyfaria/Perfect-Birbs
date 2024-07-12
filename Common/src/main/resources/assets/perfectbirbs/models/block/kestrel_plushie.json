@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Kestrel",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "perfectplushies:block/kestrel_plushie",
-		"particle": "perfectplushies:block/kestrel_plushie"
+		"1": "perfectbirbs:block/kestrel_plushie",
+		"particle": "perfectbirbs:block/kestrel_plushie"
 	},
 	"elements": [
 		{

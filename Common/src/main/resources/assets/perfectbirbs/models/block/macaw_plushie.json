@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Quetzal",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"5": "perfectplushies:block/macaw_plushie",
-		"particle": "perfectplushies:block/macaw_plushie"
+		"5": "perfectbirbs:block/macaw_plushie",
+		"particle": "perfectbirbs:block/macaw_plushie"
 	},
 	"elements": [
 		{

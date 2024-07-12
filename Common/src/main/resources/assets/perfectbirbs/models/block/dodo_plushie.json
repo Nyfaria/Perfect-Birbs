@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "dodo",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"4": "perfectplushies:block/dodo_plushie",
-		"particle": "perfectplushies:block/dodo_plushie"
+		"4": "perfectbirbs:block/dodo_plushie",
+		"particle": "perfectbirbs:block/dodo_plushie"
 	},
 	"elements": [
 		{

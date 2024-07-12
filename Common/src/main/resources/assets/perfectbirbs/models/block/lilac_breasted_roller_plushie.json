@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "lilac-breasted-roller",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "perfectplushies:block/lilac_breasted_roller_plushie",
-		"particle": "perfectplushies:block/lilac_breasted_roller_plushie"
+		"1": "perfectbirbs:block/lilac_breasted_roller_plushie",
+		"particle": "perfectbirbs:block/lilac_breasted_roller_plushie"
 	},
 	"elements": [
 		{

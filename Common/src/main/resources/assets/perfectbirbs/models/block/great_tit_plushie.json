@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "great_tit",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "perfectplushies:block/great_tit_plushie",
-		"particle": "perfectplushies:block/great_tit_plushie"
+		"2": "perfectbirbs:block/great_tit_plushie",
+		"particle": "perfectbirbs:block/great_tit_plushie"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Quetzal",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "perfectplushies:block/lovebird_plushie",
-		"particle": "perfectplushies:block/lovebird_plushie"
+		"1": "perfectbirbs:block/lovebird_plushie",
+		"particle": "perfectbirbs:block/lovebird_plushie"
 	},
 	"elements": [
 		{

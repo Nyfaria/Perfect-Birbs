@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"4": "perfectplushies:block/riflebird_plushie",
-		"particle": "perfectplushies:block/riflebird_plushie"
+		"4": "perfectbirbs:block/riflebird_plushie",
+		"particle": "perfectbirbs:block/riflebird_plushie"
 	},
 	"elements": [
 		{

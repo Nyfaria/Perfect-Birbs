@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "perfectplushies:block/kakapo_plushie",
-		"particle": "perfectplushies:block/kakapo_plushie"
+		"0": "perfectbirbs:block/kakapo_plushie",
+		"particle": "perfectbirbs:block/kakapo_plushie"
 	},
 	"elements": [
 		{

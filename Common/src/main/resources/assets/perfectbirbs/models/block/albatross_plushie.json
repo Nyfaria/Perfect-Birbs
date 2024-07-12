@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "Albatross",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "perfectplushies:block/albatross_plushie",
-		"particle": "perfectplushies:block/albatross_plushie"
+		"2": "perfectbirbs:block/albatross_plushie",
+		"particle": "perfectbirbs:block/albatross_plushie"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "osprey",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "perfectplushies:block/osprey_plushie",
-		"particle": "perfectplushies:block/osprey_plushie"
+		"0": "perfectbirbs:block/osprey_plushie",
+		"particle": "perfectbirbs:block/osprey_plushie"
 	},
 	"elements": [
 		{

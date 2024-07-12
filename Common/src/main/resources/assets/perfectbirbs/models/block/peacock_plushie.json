@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
-		"3": "perfectplushies:block/peacock_plushie",
-		"particle": "perfectplushies:block/peacock_plushie"
+		"3": "perfectbirbs:block/peacock_plushie",
+		"particle": "perfectbirbs:block/peacock_plushie"
 	},
 	"elements": [
 		{

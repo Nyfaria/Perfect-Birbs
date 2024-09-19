@@ -61,6 +61,10 @@ public class BlockInit {
     public static final RegistryObject<Block> UMBRELLA_BIRD_PLUSHIE = registerCommonBasicPlushie("umbrella_bird");
     public static final RegistryObject<Block> WREN_PLUSHIE = registerCommonBasicPlushie("wren");
 
+    public static final RegistryObject<Block> BLUE_FOOTED_BOOBY = registerCommonBasicPlushie("blue_footed_booby");
+    public static final RegistryObject<Block> CISTICOLA = registerCommonBasicPlushie("cisticola");
+    public static final RegistryObject<Block> BEARDED_REEDLING = registerCommonBasicPlushie("bearded_reedling");
+
     public static RegistryObject<Block> registerCommonBasicPlushie(String name) {
         return registerBasicPlushie(name, Rarity.COMMON);
     }

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "BeeHummingbird",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "perfectbirbs:block/cisticola",
-		"particle": "perfectbirbs:block/cisticola"
+		"3": "perfectbirbs:block/cisticola_plushie",
+		"particle": "perfectbirbs:block/cisticola_plushie"
 	},
 	"elements": [
 		{

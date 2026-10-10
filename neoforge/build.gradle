@@ -1,0 +1,33 @@
+plugins {
+    id 'multiloader-loader'
+    alias(nyfs.plugins.mdg.loader)
+    alias(nyfs.plugins.regutils.loader)
+    id 'multiloader-moddev'
+    id("com.nyfaria.moddingtools.dependencies")
+    id("com.nyfaria.moddingtools.publishing")
+}
+
+repositories {
+    maven { url = 'https://maven.100media.dev/releases' }
+}
+
+def dataArguments = ['--mod', project.mod_id, '--all', '--output', project(":common").file('src/generated/resources/').getAbsolutePath(), '--existing', project(":common").file('src/main/resources/').getAbsolutePath()]
+
+legacyForge {
+    runs {
+        data {
+            data()
+            programArguments.addAll dataArguments
+        }
+    }
+}
+
+dependencies {
+    implementation(annotationProcessor(nyfs.mixin.extras.common.get()))
+    annotationProcessor "org.spongepowered:mixin:${nyfs.versions.mixin.asProvider().get()}:processor"
+    jarJar(modImplementation(nyfs.mixin.extras.forge.get()))
+    modDeps.requiredMod(nyfs.geckolib.forge, "geckolib", null)
+    jarJar(modImplementation("com.nyfaria.perfectplushieapi:perfectplushieapi-forge-1.20.1:${plushie_api_version}")) {
+        transitive = false
+    }
+}

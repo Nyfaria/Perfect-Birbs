@@ -27,7 +27,7 @@ dependencies {
     annotationProcessor "org.spongepowered:mixin:${nyfs.versions.mixin.asProvider().get()}:processor"
     jarJar(modImplementation(nyfs.mixin.extras.forge.get()))
     modDeps.requiredMod(nyfs.geckolib.forge, "geckolib", null)
-    jarJar(modImplementation("com.nyfaria.perfectplushieapi:perfectplushieapi-forge-1.20.1:${plushie_api_version}")) {
+    jarJar(modImplementation("com.nyfaria.perfectplushieapi:perfectplushieapi-Forge-1.20.1:${plushie_api_version}")) {
         transitive = false
     }
 }

@@ -16,7 +16,7 @@ dependencies {
     include(implementation(annotationProcessor(nyfs.mixin.extras.fabric.get())))
     modDeps.requiredMod(nyfs.config.api.fabric, "forgeconfigapiport", null)
     modDeps.requiredMod(nyfs.geckolib.fabric, "geckolib", null)
-    modImplementation(include("com.nyfaria.perfectplushieapi:perfectplushieapi-fabric-1.20.1:${plushie_api_version}")) {
+    modImplementation(include("com.nyfaria.perfectplushieapi:perfectplushieapi-Fabric-1.20.1:${plushie_api_version}")) {
         transitive = false
     }
 }

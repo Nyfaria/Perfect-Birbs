@@ -16,7 +16,7 @@ dependencies {
     annotationProcessor nyfs.mixin.extras.common.get()
     compileOnly nyfs.config.api.common.get()
     compileOnly nyfs.geckolib.forge.get()
-    compileOnly("com.nyfaria.perfectplushieapi:perfectplushieapi-common-1.20.1:${plushie_api_version}") {
+    compileOnly("com.nyfaria.perfectplushieapi:perfectplushieapi-Common-1.20.1:${plushie_api_version}") {
         transitive = false
     }
 }
